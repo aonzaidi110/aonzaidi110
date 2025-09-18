@@ -41,8 +41,8 @@ I also explore **Computer Vision, NLP, and End-to-End AI Deployment** to build r
 - 🧠 Machine Learning (TensorFlow, PyTorch, Scikit-Learn)  
 - 🤖 Deep Learning (CNN, RNN, LSTM, Transformers)  
 - 📊 NLP (Text Classification, Sentiment Analysis, Chatbots)  
-- 🌐 Web Development (Flask, FastAPI, React, Strapi, PostgreSQL)  
-- ⚡ Deployment (Docker, Gradio, Streamlit, Netlify)  
+- 🌐 Web Development (Flask, FastAPI, React, Node js, Next js, Strapi, PostgreSQL)  
+- ⚡ Deployment (Docker, Gradio, Streamlit, Netlify, Vercel)  
 
 ### 💡 Professional Values
 Innovation • Scalability • Impact-Driven Development • Continuous Learning  
