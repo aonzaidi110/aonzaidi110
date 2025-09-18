@@ -7,7 +7,7 @@
 <br>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=aonzaidi110&color=00D9FF&style=for-the-badge&label=Profile+Views)](https://github.com/aonzaidi110)
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-muhammad-aon-nazar-zaidi)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aon-zaidi-software-engineer/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-00D9FF?style=for-the-badge&logo=netlify&logoColor=white)](https://your-portfolio-link-here)
 
 </div>
