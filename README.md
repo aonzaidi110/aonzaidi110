@@ -31,8 +31,8 @@
 <td width="65%">
 
 ### 🚀 About Me
-I’m a passionate **Machine Learning & AI Developer** with expertise in **Python, Deep Learning, and Web Development**.  
-I also explore **Computer Vision, NLP, and End-to-End AI Deployment** to build real-world intelligent solutions.  
+I’m a passionate **Machine Learning & AI Full Stack Developer** with expertise in **Python, Deep Learning, and Web Development**.  
+I also explore **Computer Vision, NLP, Next JS, strapi, PostgreeSQL, Coolify and End-to-End AI Deployment** to build real-world intelligent solutions.  
 
 ### 🎯 Mission Statement
 > "Transforming raw data into meaningful, intelligent, and scalable solutions."
@@ -42,7 +42,7 @@ I also explore **Computer Vision, NLP, and End-to-End AI Deployment** to build r
 - 🤖 Deep Learning (CNN, RNN, LSTM, Transformers)  
 - 📊 NLP (Text Classification, Sentiment Analysis, Chatbots)  
 - 🌐 Web Development (Flask, FastAPI, React, Node js, Next js, Strapi, PostgreSQL)  
-- ⚡ Deployment (Docker, Gradio, Streamlit, Netlify, Vercel)  
+- ⚡ Deployment (Coolify, Docker, Gradio, Streamlit, Netlify, Vercel)  
 
 ### 💡 Professional Values
 Innovation • Scalability • Impact-Driven Development • Continuous Learning  
